@@ -1,0 +1,13 @@
+"id","x.location","y.location","status","ambulance"
+1,9,31,"Completed",
+2,52,40,"Completed",
+3,82,12,"Completed",
+4,5,8,"Completed",
+5,9,8,"Completed",
+6,99,8,"Transporting","A5"
+7,9,31,"Completed",
+8,52,40,"Completed",
+9,82,12,"Transporting","A31"
+10,50,50,"Completed",
+11,0,100,"Completed",
+12,100,0,"Completed",

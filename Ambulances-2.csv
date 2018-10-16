@@ -1,0 +1,11 @@
+"id","x.location","y.location","status","patient"
+"A7",30,80,"At Station",
+"A42",30,80,"At Station",
+"A117",90,20,"At Station",
+"A5",72,35,"Transporting",6
+"A32",30,80,"At Station",
+"A17",78,22,"Returning",
+"A4",74,26,"Returning",
+"A129",1,1,"Responding",8
+"A33",90,20,"At Station",
+"A31",61,33,"Transporting",9
