@@ -1,4 +1,8 @@
 # ambulance
-A java program that reads and updates 2 csv files containing information about ambulances and officers.
+A multithreading java program that simulates ambulances picking up patients and moving them to hospitals then returning back to their stations with real time updates
 <br><br>
-I have a similar one written in C# which reads and updates an actual database.
+1.open cmd
+2.cd to the directory
+3.type java AmbulanceSimulation
+
+
